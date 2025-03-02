@@ -1,0 +1,34 @@
+<mjml>
+    <mj-head>
+        <mj-title> Title </mj-title>
+    </mj-head>
+
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <mj-text align="left"> Some text for your preheader </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text align="right"
+                    ><a href="email-permalink">
+                        Read in the browser
+                    </a></mj-text
+                >
+            </mj-column>
+        </mj-section>
+        <mj-section
+            background-url="https://images.learning.strayeruniversity.edu/EloquaImages/clients/StrayerEducation/{7339f452-ef9f-40d5-8586-980bf2a165a5}_700086_JWMILogoH2_042020.png"
+        >
+            <mj-column>
+                <mj-text align="center">
+                    Nostrud sunt eu quis velit proident ipsum et. Qui nisi est
+                    proident consectetur reprehenderit amet pariatur occaecat ea
+                    et fugiat consectetur minim do. Velit sint quis mollit
+                    officia duis nostrud cillum Lorem. Proident officia
+                    adipisicing reprehenderit sint nisi. Officia fugiat Lorem
+                    nulla et laborum. Qui proident est irure ut anim veniam.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body></mjml
+>
